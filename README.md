@@ -1,6 +1,6 @@
-git clone https://github.com/rendi88-jpg/my-web.git
+git clone https://github.com/username/my-website.git
 cd my-website
-#portofolio
+# Tambahkan file situs Anda
 git add .
 git commit -m "Initial commit"
 git push origin main
